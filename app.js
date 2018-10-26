@@ -112,6 +112,7 @@ app.set('symbol', settings.symbol);
 app.set('coin', settings.coin);
 app.set('locale', locale);
 app.set('display', settings.display);
+app.set('fontawesomeintegrity', settings.fontawesomeintegrity);
 app.set('markets', settings.markets);
 app.set('twitter', settings.twitter);
 app.set('facebook', settings.youtube);

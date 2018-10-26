@@ -75,6 +75,9 @@
     "network": true
   },
 
+  // Fontawesome Integrity Key
+  "fontawesomeintegrity": "YOUR-KEY-HERE",
+
   // index page (valid options for difficulty are POW, POS or Hybrid)
   "index": {
     "show_hashrate": true,
