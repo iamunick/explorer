@@ -67,6 +67,9 @@
     "facebook": false,
     "googleplus": false,
     "youtube": false,
+    "discord": false,
+    "bitcointalk": false,
+    "mainsite": false,
     "search": true,
     "movement": true,
     "network": true
@@ -120,6 +123,9 @@
   "facebook": "yourfacebookpage",
   "googleplus": "yourgooglepluspage",
   "youtube": "youryoutubechannel",
+  "discord": "yourdiscordlinkid",
+  "bitcointalk": "yourbitcointalkthreadid",
+  "mainsite": "yourmainsiteurl",
 
   //genesis
   "genesis_tx": "65f705d2f385dc85763a317b3ec000063003d6b039546af5d8195a5ec27ae410",
